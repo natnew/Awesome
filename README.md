@@ -54,6 +54,11 @@ An awesome list of resources about topics to do with the AEC industry 😎
 ## Tips & Tricks
 
 ## Videos
+- [What is BIM?](https://www.youtube.com/watch?v=suNadRnHy-U)
+- [Autodesk Construction Cloud](https://www.youtube.com/watch?v=GoIv5ritEiM)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 
 ## Webinars
 
