@@ -16,14 +16,32 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 ## Cloud Platforms And Tools
 
+- [Revizto](https://revizto.com/en/solutions/bim-for-architects/)
+- [Bentley](https://www.bentley.com/en/products/brands/projectwise)
+- [Asite](https://www.asite.com/)
+- [Viewpoint](https://www.viewpoint.com/en-gb/)
+- [Aconex](https://www.oracle.com/uk/industries/construction-engineering/aconex-project-controls/)
+- [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
+
 ## Collaboration
+- [Revizto](https://revizto.com/en/solutions/bim-for-architects/)
+- [Bentley](https://www.bentley.com/en/products/brands/projectwise)
+- [Asite](https://www.asite.com/)
+- [Viewpoint](https://www.viewpoint.com/en-gb/)
+- [Aconex](https://www.oracle.com/uk/industries/construction-engineering/aconex-project-controls/)
+- [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
 
 
 ## Courses
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Industry Specific Autodesk courses](https://customersuccess.autodesk.com/learning)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 
 ## Digital Twins
-- [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
-- [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
+- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+- [Autodesk Tandem](https://intandem.autodesk.com/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
@@ -32,8 +50,13 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 ## Technology
 
+
 ## Tips & Tricks
+
+## Videos
 
 ## Webinars
 
-## 
+
+
+#### Feel free to contribute!
