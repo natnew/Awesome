@@ -44,6 +44,11 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 
 ## Dynamo
+- [Learn Dynamo](https://dynamobim.org/)
+- [Get help with Dynamo](https://forum.dynamobim.com/)
+- [Dynamo Blog](https://dynamobim.org/blog/)
+- [Dynamo for developers](https://developer.dynamobim.org/)
+- [Get Dynamo](http://dynamobim.org/download/)
 
 ## Technology
 
@@ -53,7 +58,7 @@ An awesome list of resources about topics to do with the AEC industry 😎
 ## Videos
 - [What is BIM?](https://www.youtube.com/watch?v=suNadRnHy-U)
 - [Autodesk Construction Cloud](https://www.youtube.com/watch?v=GoIv5ritEiM)
-- [What is a BIM Model](https://www.youtube.com/watch?v=s1yN-LMs_jU)
+- [What is a BIM Model?](https://www.youtube.com/watch?v=s1yN-LMs_jU)
 - [Where do I start with BIM?](https://www.youtube.com/watch?v=HfBRRcqZKrQ)
 - [An introduction to BIM](https://www.youtube.com/watch?v=bJTNhbVcBFk)
 - [Understand BIM](https://www.youtube.com/watch?v=omaw1mdk9xg)
