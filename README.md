@@ -43,6 +43,12 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 
 ## Developing Standards
+- [Smart Standards](https://www.cdbb.cam.ac.uk/news/developing-smart-standards)
+- [The Architecture Principles](https://www.cdbb.cam.ac.uk/news/publication-national-digital-twin-integration-architecture-pattern-and-principles)
+- [Steps Towards a Foundation for Assembly](https://www.cdbb.cam.ac.uk/news/publication-framework-composition-step-towards-foundation-assembly)
+- [An Integrated Approach To Information Management](https://www.cdbb.cam.ac.uk/news/publication-integrated-approach-information-management-identifying-decisions-and-information)
+- [Progress Towards Data Foundations](https://www.cdbb.cam.ac.uk/news/blog-platform-approach-construction-progress-towards-data-foundations)
+- [Skills Framework](https://www.cdbb.cam.ac.uk/news/new-framework-highlights-new-career-opportunities-being-created-national-digital-twin)
 
 ## Digital Twins
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
@@ -70,6 +76,7 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Making Excellence A Habit](https://www.cdbb.cam.ac.uk/news/agile-standards)
 - [Next Generation Of Industry Leaders](https://www.cdbb.cam.ac.uk/news/press-release-inspiring-next-generation-construction-industry-leaders)
 - [Skills For The Future](https://www.cdbb.cam.ac.uk/news/skills-future)
+- [Exploring The BIM Training Landscape](https://www.cdbb.cam.ac.uk/news/exploring-bim-training-landscape)
 
 ## Suatinable Design
 - [Global Status Report](https://globalabc.org/sites/default/files/inline-files/2020%20Buildings%20GSR_FULL%20REPORT.pdf)
