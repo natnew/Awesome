@@ -62,10 +62,18 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Where do I start with BIM?](https://www.youtube.com/watch?v=HfBRRcqZKrQ)
 - [An introduction to BIM](https://www.youtube.com/watch?v=bJTNhbVcBFk)
 - [Understand BIM](https://www.youtube.com/watch?v=omaw1mdk9xg)
+- [Digital Twins - Four futures, one choice](https://www.youtube.com/watch?v=yD5mFhVoN1o)
+- [Digital Transformation](https://www.youtube.com/watch?v=eeXSlO2l-w4)
+- [The benefits of the national digital twin](https://www.youtube.com/watch?v=CJtXWD2QQIU)
+- [The pathway to information management](https://www.youtube.com/watch?v=cfJeM7PYkhY)
+- [The Gemini Priniciples](https://www.youtube.com/watch?v=GoIv5ritEiM)
+- [What is the national digital twin?](https://www.youtube.com/watch?v=ChCNcLY6tKA)
 
 
 ## Webinars
-
+- [Digital Transformation](https://www.youtube.com/watch?v=eeXSlO2l-w4)
+- [The benefits of the national digital twin](https://www.youtube.com/watch?v=CJtXWD2QQIU)
+- [The pathway to information management](https://www.youtube.com/watch?v=cfJeM7PYkhY)
 
 
 #### Feel free to contribute!
