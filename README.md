@@ -76,12 +76,15 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [What It Takes To Get An Edge In The IOT](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/what-it-takes-to-get-an-edge-in-the-internet-of-things)
 - [How To Capture The Value Of IOT?](https://www.mckinsey.com/featured-insights/internet-of-things/our-insights/the-internet-of-things-how-to-capture-the-value-of-iot)
 - [A Smart Home](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/a-smart-home-is-where-the-bot-is)
-- [Aaaa](aaa)
 
 
 
 ## Security
 - [Cyber Physical Fabric Summit](https://www.cdbb.cam.ac.uk/news/blog-introducing-cyber-physical-fabric-summit)
+- [Derisking Digital And Analytical Transformations](https://www.mckinsey.com/business-functions/risk/our-insights/derisking-digital-and-analytics-transformations)
+- [Securing Small To Medium Sized Enterprises](https://www.mckinsey.com/business-functions/risk/our-insights/securing-small-and-medium-size-enterprises-whats-next)
+- [Safeguarding Against Cyberattack In An Increasingly Digital World](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/safeguarding-against-cyberattack-in-an-increasingly-digital-world)
+- [The Consumer-data Opportunity And The Privacy Imperative](https://www.mckinsey.com/business-functions/risk/our-insights/the-consumer-data-opportunity-and-the-privacy-imperative)
 
 
 ## Skills Building
@@ -97,9 +100,12 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Timber Joining](https://www.cdbb.cam.ac.uk/news/developing-wood-welding-rapid-timber-joining-technique)
 
 
-
 ## Tips & Tricks
-
+- [Technical Architecture Drawing Tips](https://www.archdaily.com/889367/20-technical-architecture-drawing-tips)
+- [Construction Tips And Tricks](https://gbdmagazine.com/construction-tips-and-tricks/)
+- [Drawing Tips And Tricks](https://architizer.com/blog/practice/details/8-tips-architectural-drawing/)
+- [Eastimation Tips And Tricks](https://www.buildingsolutions.com/industry-insights/13-tips-for-accurate-construction-project-estimates)
+- [Dynamo Tips And Tricks](https://www.autodesk.com/autodesk-university/class/Dynamo-Isnt-Magic-These-Tips-and-Tricks-Might-Seem-Magical-2020)
 
 
 ## Videos - BIM and Digital Twins
