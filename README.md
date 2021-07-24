@@ -27,12 +27,13 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 
 ## Collaboration Between AEC Teams
-- [Revizto](https://revizto.com/en/solutions/bim-for-architects/)
-- [Bentley](https://www.bentley.com/en/products/brands/projectwise)
-- [Asite](https://www.asite.com/)
-- [Viewpoint](https://www.viewpoint.com/en-gb/)
-- [Aconex](https://www.oracle.com/uk/industries/construction-engineering/aconex-project-controls/)
-- [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
+- [The Rise In Platforms](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/rise-of-the-platform-era-the-next-chapter-in-construction-technology)
+- [Construction Players](https://www.mckinsey.com/business-functions/operations/our-insights/breaking-the-mold-the-construction-players-of-the-future)
+- [Decoding The Digital Transformation](https://www.mckinsey.com/business-functions/operations/our-insights/decoding-digital-transformation-in-construction)
+- [Technology Poised For A Breakthrough](https://www.mckinsey.com/industries/advanced-electronics/our-insights/construction-and-building-technology-poised-for-a-breakthrough)
+- [The New Age of Engineering and Constrction technology](https://www.mckinsey.com/business-functions/operations/our-insights/the-new-age-of-engineering-and-construction-technology)
+- [Seizing Opportunity in today's Construction Technology Ecosystem](https://www.mckinsey.com/business-functions/operations/our-insights/seizing-opportunity-in-todays-construction-technology-ecosystem)
+- [The Next Generation Of Infrastructure](https://www.mckinsey.com/business-functions/operations/our-insights/next-generation-of-infrastructure)
 
 
 ## Courses - Technical 
@@ -66,6 +67,17 @@ An awesome list of resources about topics to do with the AEC industry 😎
 
 ## IOT - Internet Of Things
 - [Making Sense Of Sensors](https://www.cdbb.cam.ac.uk/news/blog-making-sense-sensors)
+- [Internet Of Things](https://www.mckinsey.com/featured-insights/internet-of-things/how-we-help-clients)
+- [Trends Shaping The IOT Business Landscape](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-trends-shaping-the-internet-of-things-business-landscape)
+- [Making Sense Of IOT Platforms](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/making-sense-of-internet-of-things-platforms)
+- [The Technology Stack As Value Drivers](https://www.mckinsey.com/industries/advanced-electronics/our-insights/iiot-platforms-the-technology-stack-as-value-driver-in-industrial-equipment-and-machinery)
+- [A New Posture For Cybersecurity](https://www.mckinsey.com/business-functions/risk/our-insights/a-new-posture-for-cybersecurity-in-a-networked-world)
+- [The Future Of Connectivity](https://www.mckinsey.com/featured-insights/internet-of-things/our-insights/the-future-of-connectivity-enabling-the-internet-of-things)
+- [What It Takes To Get An Edge In The IOT](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/what-it-takes-to-get-an-edge-in-the-internet-of-things)
+- [How To Capture The Value Of IOT?](https://www.mckinsey.com/featured-insights/internet-of-things/our-insights/the-internet-of-things-how-to-capture-the-value-of-iot)
+- [A Smart Home](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/a-smart-home-is-where-the-bot-is)
+- [Aaaa](aaa)
+
 
 
 ## Security
