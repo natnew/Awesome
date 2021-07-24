@@ -35,16 +35,13 @@ An awesome list of resources about topics to do with the AEC industry 😎
 ## Courses
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Industry Specific Autodesk courses](https://customersuccess.autodesk.com/learning)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+-
 
 ## Digital Twins
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Autodesk Tandem](https://intandem.autodesk.com/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
-- [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
-- [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
+
 
 ## Dynamo
 
@@ -56,9 +53,7 @@ An awesome list of resources about topics to do with the AEC industry 😎
 ## Videos
 - [What is BIM?](https://www.youtube.com/watch?v=suNadRnHy-U)
 - [Autodesk Construction Cloud](https://www.youtube.com/watch?v=GoIv5ritEiM)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
-- [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
+
 
 ## Webinars
 
