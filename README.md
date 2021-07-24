@@ -14,8 +14,10 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Revit and Dynamo for Children](https://www.autodesk.com/autodesk-university/class/How-I-Make-My-Child-Love-Math-Using-Revit-and-Dynamo-2016?linkId=63660836#handout)
 - [Revitalising A Cathedral](https://redshift.autodesk.com/digital-collaboration/)
 
+
 ## Cloud Platforms And Tools
 
+
 - [Revizto](https://revizto.com/en/solutions/bim-for-architects/)
 - [Bentley](https://www.bentley.com/en/products/brands/projectwise)
 - [Asite](https://www.asite.com/)
@@ -23,7 +25,8 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Aconex](https://www.oracle.com/uk/industries/construction-engineering/aconex-project-controls/)
 - [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
 
-## Collaboration
+
+## Collaboration Between AEC Teams
 - [Revizto](https://revizto.com/en/solutions/bim-for-architects/)
 - [Bentley](https://www.bentley.com/en/products/brands/projectwise)
 - [Asite](https://www.asite.com/)
@@ -32,10 +35,12 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
 
 
-## Courses
+## Courses - Technical 
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Industry Specific Autodesk courses](https://customersuccess.autodesk.com/learning)
--
+- [Implementing BIM Strategies](https://www.cdbb.cam.ac.uk/interactive-content/organisational-bim-strategy-training
+)
+
 
 ## Digital Twins
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
@@ -50,12 +55,26 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Dynamo for developers](https://developer.dynamobim.org/)
 - [Get Dynamo](http://dynamobim.org/download/)
 
-## Technology
+## IOT - Internet Of Things
+- [Making Sense Of Sensors](https://www.cdbb.cam.ac.uk/news/blog-making-sense-sensors)
+
+
+## Skills Building
+
+
+## Suatinable Design
+- [Global Status Report](https://globalabc.org/sites/default/files/inline-files/2020%20Buildings%20GSR_FULL%20REPORT.pdf)
+- [Building Wih Wood](https://www.cdbb.cam.ac.uk/news/opening-possibilities-building-wood)
+- [Integrating Models Of The Built And Natural Environment](https://www.cdbb.cam.ac.uk/news/integrating-models-built-and-natural-environment)
+- [Timber Joining](https://www.cdbb.cam.ac.uk/news/developing-wood-welding-rapid-timber-joining-technique)
+
 
 
 ## Tips & Tricks
 
-## Videos
+
+
+## Videos - BIM and Digital Twins
 - [What is BIM?](https://www.youtube.com/watch?v=suNadRnHy-U)
 - [Autodesk Construction Cloud](https://www.youtube.com/watch?v=GoIv5ritEiM)
 - [What is a BIM Model?](https://www.youtube.com/watch?v=s1yN-LMs_jU)
