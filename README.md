@@ -42,10 +42,13 @@ An awesome list of resources about topics to do with the AEC industry 😎
 )
 
 
+## Developing Standards
+
 ## Digital Twins
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Autodesk Tandem](https://intandem.autodesk.com/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
+- [CDBB Interactive Hub](https://www.cdbb.cam.ac.uk/news/blog-digital-twins-and-how-hubs-new-interactive-guidance-can-help)
 
 
 ## Dynamo
@@ -59,8 +62,14 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Making Sense Of Sensors](https://www.cdbb.cam.ac.uk/news/blog-making-sense-sensors)
 
 
-## Skills Building
+## Security
+- [Cyber Physical Fabric Summit](https://www.cdbb.cam.ac.uk/news/blog-introducing-cyber-physical-fabric-summit)
 
+
+## Skills Building
+- [Making Excellence A Habit](https://www.cdbb.cam.ac.uk/news/agile-standards)
+- [Next Generation Of Industry Leaders](https://www.cdbb.cam.ac.uk/news/press-release-inspiring-next-generation-construction-industry-leaders)
+- [Skills For The Future](https://www.cdbb.cam.ac.uk/news/skills-future)
 
 ## Suatinable Design
 - [Global Status Report](https://globalabc.org/sites/default/files/inline-files/2020%20Buildings%20GSR_FULL%20REPORT.pdf)
