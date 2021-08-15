@@ -39,9 +39,14 @@ An awesome list of resources about topics to do with the AEC industry 😎
 ## Courses - Technical 
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Industry Specific Autodesk courses](https://customersuccess.autodesk.com/learning)
-- [Implementing BIM Strategies](https://www.cdbb.cam.ac.uk/interactive-content/organisational-bim-strategy-training
-)
+- [Implementing BIM Strategies](https://www.cdbb.cam.ac.uk/interactive-content/organisational-bim-strategy-training)
 
+
+## Data and Artificial Intelligence
+- [trends in data and artificial intelligence for 2021 and beyond](https://mitsloan.mit.edu/ideas-made-to-matter/6-trends-data-and-artificial-intelligence-2021-and-beyond)
+- [Decisions, not data, should drive analytics programs](https://mitsloan.mit.edu/ideas-made-to-matter/decisions-not-data-should-drive-analytics-programs)
+- [Leading With Decision-Driven Data Analytics](https://sloanreview.mit.edu/article/leading-with-decision-driven-data-analytics/)
+- [The CIO role is changing. Here’s what’s on the horizon](https://mitsloan.mit.edu/ideas-made-to-matter/cio-role-changing-heres-whats-horizon)
 
 ## Developing Standards
 - [Smart Standards](https://www.cdbb.cam.ac.uk/news/developing-smart-standards)
