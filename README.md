@@ -103,6 +103,7 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [Building Wih Wood](https://www.cdbb.cam.ac.uk/news/opening-possibilities-building-wood)
 - [Integrating Models Of The Built And Natural Environment](https://www.cdbb.cam.ac.uk/news/integrating-models-built-and-natural-environment)
 - [Timber Joining](https://www.cdbb.cam.ac.uk/news/developing-wood-welding-rapid-timber-joining-technique)
+- [Lynelle Cameron, the Conscience of Autodesk](https://www.engineering.com/story/lynelle-cameron-the-conscience-of-autodesk)
 
 
 ## Tips & Tricks
