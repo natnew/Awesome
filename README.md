@@ -1,6 +1,6 @@
 # Awesome 
 An awesome list of resources about topics to do with the AEC industry 😎
-
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https://github.com/natnew/Awesome/blob/main/Contributing.md) for contribution guidelines.
 
 ## BIM - Building Information Modeling 
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
@@ -134,5 +134,8 @@ An awesome list of resources about topics to do with the AEC industry 😎
 - [The benefits of the national digital twin](https://www.youtube.com/watch?v=CJtXWD2QQIU)
 - [The pathway to information management](https://www.youtube.com/watch?v=cfJeM7PYkhY)
 
-
+#### How to Share
+[Twitter](https://www.youtube.com/watch?v=eeXSlO2l-w4)
+[Linkedin](https://www.youtube.com/watch?v=eeXSlO2l-w4)
+[Digital Transformation](https://www.youtube.com/watch?v=eeXSlO2l-w4)
 #### Feel free to contribute!
