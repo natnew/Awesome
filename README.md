@@ -29,6 +29,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Aconex](https://www.oracle.com/uk/industries/construction-engineering/aconex-project-controls/)
 - [GroupBC](https://www.techifide.com/our-work/groupbc-case-study/)
 
+**[⬆ Back to Start](#Awesome)**
 
 ## Collaboration Between AEC Teams
 - [The Rise In Platforms](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/rise-of-the-platform-era-the-next-chapter-in-construction-technology)
