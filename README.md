@@ -134,8 +134,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [The benefits of the national digital twin](https://www.youtube.com/watch?v=CJtXWD2QQIU)
 - [The pathway to information management](https://www.youtube.com/watch?v=cfJeM7PYkhY)
 
+
 #### How to Share
-[Twitter](https://www.youtube.com/watch?v=eeXSlO2l-w4)
-[Linkedin](https://www.youtube.com/watch?v=eeXSlO2l-w4)
-[Digital Transformation](https://www.youtube.com/watch?v=eeXSlO2l-w4)
+- [Twitter](https://twitter.com/?lang=en-gb)
+- [Linkedin](https://gb.linkedin.com/)
+- [Facebook](https://en-gb.facebook.com/)
+
+
 #### Feel free to contribute!
