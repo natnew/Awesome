@@ -2,6 +2,9 @@
 An awesome list of resources about topics to do with the AEC industry 😎
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https://github.com/natnew/Awesome/blob/main/Contributing.md) for contribution guidelines.
 
+![AEC Resources](https://github.com/natnew/Awesome/blob/main/.img/_Banner%20AEC.JPG)
+
+
 ## BIM - Building Information Modeling 
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
 - [BIM Explained](https://www.citb.co.uk/about-citb/partnerships-and-initiatives/building-information-management-bim-for-site-workers/what-is-bim/)
