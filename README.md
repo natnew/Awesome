@@ -17,7 +17,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Revit and Dynamo for Children](https://www.autodesk.com/autodesk-university/class/How-I-Make-My-Child-Love-Math-Using-Revit-and-Dynamo-2016?linkId=63660836#handout)
 - [Revitalising A Cathedral](https://redshift.autodesk.com/digital-collaboration/)
 
-**[⬆ Back to Start](https://github.com/natnew/Awesome/edit/main/README.md)**
+**[⬆ Back to Start](https://github.com/natnew/Awesome)**
 
 ## Cloud Platforms And Tools
 
