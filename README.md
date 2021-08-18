@@ -17,7 +17,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Revit and Dynamo for Children](https://www.autodesk.com/autodesk-university/class/How-I-Make-My-Child-Love-Math-Using-Revit-and-Dynamo-2016?linkId=63660836#handout)
 - [Revitalising A Cathedral](https://redshift.autodesk.com/digital-collaboration/)
 
-**[⬆ Back to Start](https://github.com/natnew/Awesome)**
+
+**[⬆ Back to Start](#Awesome)**
 
 ## Cloud Platforms And Tools
 
@@ -41,17 +42,24 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [The Next Generation Of Infrastructure](https://www.mckinsey.com/business-functions/operations/our-insights/next-generation-of-infrastructure)
 
 
+**[⬆ Back to Start](#Awesome)**
+
 ## Courses - Technical 
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Industry Specific Autodesk courses](https://customersuccess.autodesk.com/learning)
 - [Implementing BIM Strategies](https://www.cdbb.cam.ac.uk/interactive-content/organisational-bim-strategy-training)
 
 
+**[⬆ Back to Start](#Awesome)**
+
 ## Data and Artificial Intelligence
 - [Trends in data and artificial intelligence for 2021 and beyond](https://mitsloan.mit.edu/ideas-made-to-matter/6-trends-data-and-artificial-intelligence-2021-and-beyond)
 - [Decisions, not data, should drive analytics programs](https://mitsloan.mit.edu/ideas-made-to-matter/decisions-not-data-should-drive-analytics-programs)
 - [Leading With Decision-Driven Data Analytics](https://sloanreview.mit.edu/article/leading-with-decision-driven-data-analytics/)
 - [The CIO role is changing. Here’s what’s on the horizon](https://mitsloan.mit.edu/ideas-made-to-matter/cio-role-changing-heres-whats-horizon)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 ## Developing Standards
 - [Smart Standards](https://www.cdbb.cam.ac.uk/news/developing-smart-standards)
@@ -61,11 +69,17 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Progress Towards Data Foundations](https://www.cdbb.cam.ac.uk/news/blog-platform-approach-construction-progress-towards-data-foundations)
 - [Skills Framework](https://www.cdbb.cam.ac.uk/news/new-framework-highlights-new-career-opportunities-being-created-national-digital-twin)
 
+
+**[⬆ Back to Start](#Awesome)**
+
 ## Digital Twins
 - [Autodesk Construction Cloud](https://learnacc.autodesk.com/)
 - [Autodesk Tandem](https://intandem.autodesk.com/)
 - [Worldwide BIM Standards](https://constructionblog.autodesk.com/worldwide-bim-standards/)
 - [CDBB Interactive Hub](https://www.cdbb.cam.ac.uk/news/blog-digital-twins-and-how-hubs-new-interactive-guidance-can-help)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 
 ## Dynamo
@@ -74,6 +88,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Dynamo Blog](https://dynamobim.org/blog/)
 - [Dynamo for developers](https://developer.dynamobim.org/)
 - [Get Dynamo](http://dynamobim.org/download/)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 ## IOT - Internet Of Things
 - [Making Sense Of Sensors](https://www.cdbb.cam.ac.uk/news/blog-making-sense-sensors)
@@ -88,6 +105,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [A Smart Home](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/a-smart-home-is-where-the-bot-is)
 
 
+**[⬆ Back to Start](#Awesome)**
 
 ## Security
 - [Cyber Physical Fabric Summit](https://www.cdbb.cam.ac.uk/news/blog-introducing-cyber-physical-fabric-summit)
@@ -97,11 +115,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [The Consumer-data Opportunity And The Privacy Imperative](https://www.mckinsey.com/business-functions/risk/our-insights/the-consumer-data-opportunity-and-the-privacy-imperative)
 
 
+**[⬆ Back to Start](#Awesome)**
+
 ## Skills Building
 - [Making Excellence A Habit](https://www.cdbb.cam.ac.uk/news/agile-standards)
 - [Next Generation Of Industry Leaders](https://www.cdbb.cam.ac.uk/news/press-release-inspiring-next-generation-construction-industry-leaders)
 - [Skills For The Future](https://www.cdbb.cam.ac.uk/news/skills-future)
 - [Exploring The BIM Training Landscape](https://www.cdbb.cam.ac.uk/news/exploring-bim-training-landscape)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 ## Suatinable Design
 - [Global Status Report](https://globalabc.org/sites/default/files/inline-files/2020%20Buildings%20GSR_FULL%20REPORT.pdf)
@@ -111,12 +134,18 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Lynelle Cameron, the Conscience of Autodesk](https://www.engineering.com/story/lynelle-cameron-the-conscience-of-autodesk)
 
 
+**[⬆ Back to Start](#Awesome)**
+
+
 ## Tips & Tricks
 - [Technical Architecture Drawing Tips](https://www.archdaily.com/889367/20-technical-architecture-drawing-tips)
 - [Construction Tips And Tricks](https://gbdmagazine.com/construction-tips-and-tricks/)
 - [Drawing Tips And Tricks](https://architizer.com/blog/practice/details/8-tips-architectural-drawing/)
 - [Eastimation Tips And Tricks](https://www.buildingsolutions.com/industry-insights/13-tips-for-accurate-construction-project-estimates)
 - [Dynamo Tips And Tricks](https://www.autodesk.com/autodesk-university/class/Dynamo-Isnt-Magic-These-Tips-and-Tricks-Might-Seem-Magical-2020)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 
 ## Videos - BIM and Digital Twins
@@ -134,16 +163,25 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [What is the national digital twin?](https://www.youtube.com/watch?v=ChCNcLY6tKA)
 
 
+**[⬆ Back to Start](#Awesome)**
+
+
 ## Webinars
 - [Digital Transformation](https://www.youtube.com/watch?v=eeXSlO2l-w4)
 - [The benefits of the national digital twin](https://www.youtube.com/watch?v=CJtXWD2QQIU)
 - [The pathway to information management](https://www.youtube.com/watch?v=cfJeM7PYkhY)
 
 
+**[⬆ Back to Start](#Awesome)**
+
+
 #### How to Share
 - [Twitter](https://twitter.com/?lang=en-gb)
 - [Linkedin](https://gb.linkedin.com/)
 - [Facebook](https://en-gb.facebook.com/)
+
+
+**[⬆ Back to Start](#Awesome)**
 
 
 #### Feel free to contribute!
