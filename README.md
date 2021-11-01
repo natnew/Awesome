@@ -132,6 +132,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](https:/
 - [Integrating Models Of The Built And Natural Environment](https://www.cdbb.cam.ac.uk/news/integrating-models-built-and-natural-environment)
 - [Timber Joining](https://www.cdbb.cam.ac.uk/news/developing-wood-welding-rapid-timber-joining-technique)
 - [Lynelle Cameron, the Conscience of Autodesk](https://www.engineering.com/story/lynelle-cameron-the-conscience-of-autodesk)
+- [Digital Tools Enable Companies to Build Sustainable Communities](https://sponsored.bloomberg.com/article/autodesk/digital-tools-enable-companies-to-build-sustainable-communities)
+- [Climate report: the good, the bad and th opportunity to seize](https://adsknews.autodesk.com/views/ipcc-climate-report-presents-opportunities)
 
 
 **[⬆ Back to Start](#Awesome)**
